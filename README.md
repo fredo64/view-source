@@ -1,1 +1,1 @@
-manifesto.html
+view-source
