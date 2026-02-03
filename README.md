@@ -1,1 +1,1 @@
-# html.index
+manifesto.index
