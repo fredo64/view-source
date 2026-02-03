@@ -1,1 +1,1 @@
-manifesto.index
+manifesto.html
